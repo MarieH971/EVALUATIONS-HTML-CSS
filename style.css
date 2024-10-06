@@ -155,6 +155,7 @@ transition: 0.7s;
     justify-content: center;
    
     display: grid;
+    /* pas les deux en meme temps */
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr;
     grid-template-areas: 
